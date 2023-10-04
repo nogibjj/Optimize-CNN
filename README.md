@@ -1,2 +1,2 @@
 # Optimize-CNN
-ECE 661 Assignment 2
+Homework Assignment 2 for Duke University ECE 661
